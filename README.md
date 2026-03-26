@@ -58,5 +58,5 @@ Basic UI validations
 
  Notes
 
-Make sure Appium server is running before executing tests
-Ensure emulator or real device is connected
+.Make sure Appium server is running before executing tests
+.Ensure emulator or real device is connected
