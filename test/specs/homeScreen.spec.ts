@@ -1,8 +1,6 @@
-import { homeScreen } from '/Users/haidysaied/Documents/appiumTask/pages/homeScreen';
-import { productPage } from '/Users/haidysaied/Documents/appiumTask/pages/productPage';
-import { cartPage } from '/Users/haidysaied/Documents/appiumTask/pages/cartPage';
-
-
+import { homeScreen } from '../../pages/homeScreen';
+import { productPage } from '../../pages/productPage';
+import { cartPage } from '../../pages/cartPage';
 describe('General Store - Full Flow', () => {
 
     let home: homeScreen;
